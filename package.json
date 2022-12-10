@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@dellasera/plugdo-server": "^1.0.15",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "connect-multiparty": "^2.2.0",
     "cors": "^2.8.5",
     "ejs": "^2.6.1",
